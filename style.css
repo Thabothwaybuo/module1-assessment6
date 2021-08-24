@@ -1,0 +1,85 @@
+.gallery img{
+    width: 23%;
+    height: 200px;
+    
+}
+h4{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    font-style: inherit;
+    color: red;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#menu{
+    width: 100%;
+    height: 40px;
+    background-color: lightgreen;
+    padding-top: 12px;
+}
+#menu a{
+    color:black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    text-decoration: inherit;
+    border-spacing: inherit;
+    word-spacing: normal;
+    font-display: block;
+    font-weight:1000;
+    text-decoration: underline;
+}
+th{
+    background-color: blueviolet;
+    font-family: 'Times New Roman', Times, serif;
+}
+tr{
+    background-color: brown;
+}
+h{
+    background-color: chartreuse;
+    font-size: 50 px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+element.style {
+}
+
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+    
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+html {
+    display: block;
+    background-color: cyan;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
